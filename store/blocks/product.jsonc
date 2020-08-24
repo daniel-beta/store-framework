@@ -62,7 +62,7 @@
     "props": {
       "initialSelection": "empty",
       "showVariationsLabels": true,
-      "visibleVariations": "name",
+      "visibleVariations": "undefined",
       "showVariationsErrorMessage": true
     }
   }
