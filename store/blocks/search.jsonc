@@ -16,7 +16,9 @@
       "flex-layout.row#top",
       "search-fetch-previous",
       "flex-layout.row#results",
-      "search-fetch-more"
+      "search-fetch-more",
+      "total-products.v2",
+      "order-by.v2"
     ],
     "props": {
       "pagination": "show-more"
