@@ -17,6 +17,8 @@
       "search-fetch-previous",
       "flex-layout.row#results",
       "search-fetch-more",
+      "filter-navigator.v3",
+      "search-content",
       "total-products.v2",
       "order-by.v2"
     ],
