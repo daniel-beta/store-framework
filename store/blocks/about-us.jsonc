@@ -94,9 +94,9 @@
     },
     "iframe": {
         "props": {
-            "src": "https://www.instagram.com/p/B37Zfd6FobU/embed",
-            "height": "1000px",
-            "width": "800px"
+            "src": "https://www.instagram.com/p/B973Qp8BacC/embed",
+            "height": "1000",
+            "width": "800"
         }
     }
 }
