@@ -65,7 +65,7 @@
     },
     "tab-list.item#home2": {
         "props": {
-            "tabId": "instagram",
+            "tabId": "Instagram",
             "label": "Instagram"
         }
     },
@@ -82,7 +82,7 @@
             "iframe"
         ],
         "props": {
-            "tabId": "instagram"
+            "tabId": "Instagram"
         }
     },
     "rich-text#home1": {
@@ -95,8 +95,8 @@
     "iframe": {
         "props": {
             "src": "https://www.instagram.com/p/B973Qp8BacC/embed",
-            "height": "1000px",
-            "width": "800px"
+            "height": "1000",
+            "width": "800"
         }
     }
 }
