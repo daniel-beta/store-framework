@@ -45,8 +45,8 @@
         "login"
     ],
     "props": {
-        "inverted":true,
-        "sticky": true
+        "sticky": true,
+        "inverted":true
     }
 },
 "header-row#main-mobile": {
