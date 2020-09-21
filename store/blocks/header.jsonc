@@ -29,12 +29,7 @@
         "header-spacer",
         "rich-text#header",
         "header-spacer"
-    ],
-    "props": {
-        "inverted":true,
-        "sticky": true,
-        "fullWidth": false
-    }
+    ]
 },
 "header-row#main": {
     "children": [
@@ -45,8 +40,11 @@
         "login"
     ],
     "props": {
-        "sticky": true,
-        "inverted":true
+        "props": {
+            "inverted":true,
+            "sticky": true,
+            "fullWidth": false
+        }
     }
 },
 "header-row#main-mobile": {
